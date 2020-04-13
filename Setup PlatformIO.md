@@ -1,3 +1,4 @@
+https://platformio.org/
 1. Run VS Code
 2. Select "Extensions" in the left pane
 3. Search extension by keyword "platformio"
