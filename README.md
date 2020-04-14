@@ -11,6 +11,8 @@ http://esp32.net/
 https://www.learnesp32.com/ (paid)
 
 https://github.com/espressif/arduino-esp32
+
+https://www.espressif.com/en
 ## IDEs
 ### Arduino IDE
 ### PlatformIO IDE
