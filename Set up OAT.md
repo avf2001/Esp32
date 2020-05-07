@@ -1,3 +1,5 @@
+Source: https://lastminuteengineers.com/esp32-ota-updates-arduino-ide/
+
 1. Install Python 2.7.x.
 2. Run Arduino IDE.  
    File > Examples > ArduinoOTA > BasicOTA  
