@@ -2,3 +2,4 @@
 2. Run Arduino IDE.  
    File > Examples > ArduinoOTA > BasicOTA  
    Set **ssid** and **password** parameters for your network.
+3. Upload the sketch.
