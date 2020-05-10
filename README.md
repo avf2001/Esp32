@@ -15,6 +15,8 @@ https://github.com/espressif/arduino-esp32
 https://www.espressif.com/en
 
 https://randomnerdtutorials.com/projects-esp32/
+
+https://lastminuteengineers.com/electronics/esp32-projects/
 ## IDEs
 ### Arduino IDE
 ### PlatformIO IDE
