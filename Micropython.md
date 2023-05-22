@@ -9,3 +9,8 @@ https://micropython.org/download/
 ```cmd
 > pip install esptool
 ```
+4. Download appropritae firmware from https://micropython.org/download/
+5.
+```
+> esptool.py --chip esp32 --port COM3 erase_flash
+```
